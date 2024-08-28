@@ -1,2 +1,2 @@
 # AySO
-Repositori de ejercicio de AySO
+Repositorio de ejercicios de AySO
